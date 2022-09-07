@@ -3,7 +3,7 @@ This is the portfolio for the class "Telling Stories with Data".
 
 
 # About Me
-My name is Xavier (he/him). I'm currently a Master's student at Carnegie Mellon University, studying products and services design with a background in business and computer science. I have three-year professional experience in digital product management of ASR and NLP SaaS solutions. I'm passionate about creating powerful tools and experiences for workflow optimization.
+My name is Xavier Xi and I go by he/him pronouns. I'm currently a Master's student at Carnegie Mellon University, studying products and services design. In 2018, I received my Bachelor’s degree in Business Administration with double majors in Information Systems and Computer Science from the University of Hong Kong. As I was more interested in empathizing with users and collaborating in teams to solve users’ pain points, I decided to pursue a career path in product management. Upon graduation from college, I had the chance to join a startup that develops enterprise SaaS solutions with applications of speech recognition and natural language processing to work as a product manager for almost three years. I'm passionate about creating powerful tools and experiences for workflow optimization.
 
 
 # What I hope to learn
