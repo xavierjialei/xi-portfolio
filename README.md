@@ -14,6 +14,8 @@ I'm hoping to learn more about the best practices in data visualization and stor
 Future assignments and final project
 
 ## Assignment 1
+This is the assignment of visualizing government debt.(/dataviz/md)
+
 ## Assignment 2
 ## Assignment 3
 ## Assignment 4
