@@ -5,6 +5,6 @@
 This is the grid of line charts showing the trend of debt-to-GDP ratio of countries during the period of 1995 to 2021.
 <div class="flourish-embed flourish-chart" data-src="visualisation/11141746"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-# Change of Debt-to-GDP Ratios among G7 Countries in 2010s
-This is a scatter plot showing the comparisons of the trend of debt-to-GDP ratio change among G7 countries during the period of 2010-2020.
+# A Look at the Change of Debt-to-GDP Ratios among G7 Countries in the 2010s
+During the period of 2010-2020, Japan remained the country that had the highest debt-to-GDP ratio among all G7 countries every year. And it showed an upward trend. Meanwhile, Germany remained the country that had the lowest debt-to-GDP ratio in the group. The two countries demonstarted an increasing gap in terms of debt-to-GDP ratio.
 <div class="flourish-embed flourish-scatter" data-src="visualisation/11142140"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
