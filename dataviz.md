@@ -1,8 +1,9 @@
-# Government Debt Bar Chart 
+# Government Debt Bar Chart
+This chart visualizes the debt-to-GDP ratios of each country in 2020 and ranks them from the lowest to the highest. Estonia has the lowest ratio among the selected countries while Japan has the highest.
 <iframe src="https://data.oecd.org/chart/6Ob1" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Ob1" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2020</a></iframe>
 
 # Grid of Line Charts
-This is the grid of line charts showing the trend of debt-to-GDP ratio of countries during the period of 1995 to 2021.
+This is the grid of line charts showing the trend of debt-to-GDP ratio of countries during the period of 1995 to 2021. We can have an overlook on the trend of debt-to-GDP ratio change of the selected countries. We can also see that many counties experienced an increasingly serious level of debt issue during that time. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11141746"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # A Look at the Change of Debt-to-GDP Ratios among G7 Countries in the 2010s
