@@ -9,7 +9,6 @@ As China is becoming an increasinly large market for movie release, entertainmen
 ## Step 2: Critique the data visualization
 I went through the critique process of the selected visualization following the Effectiveness Profile method.
 
-- Usefulness: 8
-The usefulness of the data visualization depends on the audience it is targeting. For this chart which shows the percentage share of Marvel’s box office sales in China, I think it is useful for film studios who rely on such data to make decisions on film distribution in China. The data can help answer questions like: Are Marvel films popular in China? How much revenue can a film release in China generate using the example of Marvel? Is the share of the Chinese market increasing or decreasing over the years?
+- **Usefulness (8):** The usefulness of the data visualization depends on the audience it is targeting. For this chart which shows the percentage share of Marvel’s box office sales in China, I think it is useful for film studios who rely on such data to make decisions on film distribution in China. The data can help answer questions like: Are Marvel films popular in China? How much revenue can a film release in China generate using the example of Marvel? Is the share of the Chinese market increasing or decreasing over the years?
 
 - 
