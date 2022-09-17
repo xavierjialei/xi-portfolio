@@ -17,6 +17,9 @@ Future assignments and final project
 [This is the assignment of visualizing government debt.](/dataviz.md)
 
 ## Assignment 2
+[This is the assignment of critique by design.](/critique-by-design.md)
+
+
 ## Assignment 3
 ## Assignment 4
 ## Assignment 5
