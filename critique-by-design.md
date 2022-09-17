@@ -18,13 +18,18 @@ I went through the critique process of the selected visualization following the 
 - **Engagement (5):** I think the visualization can do a better job in terms of engagement. There is nothing too distracting, but it does not provide any direct insights or inspiration for the readers.
 
 
-
 **Overall Observation**
 
 I think this data visualization presents a clear structure without unnecessary information. The title and explanation of order effectively guide readers to interpret the data. The use of bar chart makes it easy to understand and compare. However, the separation of global sales and shares from China into two columns might mislead the readers to make wrongful conclusions. A reader may think Ant-Man and the Wasp is one of the most popular Marvel movies in China as it has a leading share of 19%. But this conclusion is not correct as its actual sales number is in the low range. Therefore, I would probably visualize the global sales as well and incorporate shares from China to make a segmented bar chart for easier and more accurate comparison. I would also put the years into their own column to stress the time information in the chart.
 
 
-
 **Primary Audience**
 
 The primary audience of this visualization may be the film studios that are analyzing the performance of the Chinese box office and evaluating their investment in movie distributions in China. Since Marvel is a leading producer of blockbuster movies, this data serves as an indicator of how much the Chinese audience likes this type of movies and how much revenue the Chinese market is contributing to the worldwide box office records over the years. I think the visualization is somehow effective to reach the audience as it provides clear and straightforward information. But the audience might be misled due to the fact the percentage shares do not reflect the actual amount of box office sales in China.
+
+
+**Evaluating the Method**
+
+This method works well in evaluating the data visualization. It has captured the important criteria that a successful data visualization should focus on. The ratings for each category also help to visualize and enable readers to understand quickly the strongest and weakest aspects of a visualization. Compared to the Good Charts method, I think the Effectiveness Profile method is more structured and provides more guidance. The arrangement chart in the Effectiveness Profile is directly linked with the rationales. It is also easier to understand. Meanwhile, it is somehow difficult to rate design execution and contextual awareness directly in the Good Charts Matrix as they are not broken down or thought through when I am making notes.
+
+In addition to the existing criteria in the Effectiveness Profile, I suggest there could be another category of “interactivity” as we are using digital tools to make visualizations more frequently. Interactivity focuses on whether the reader can interact with the visualization to see more details in a specific aspect, highlight important information, or temporarily hide unwanted information. Interactivity often makes the visualization more fun and memorable as well.
