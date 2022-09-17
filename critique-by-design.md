@@ -37,3 +37,10 @@ The primary audience of this visualization may be the film studios that are anal
 This method works well in evaluating the data visualization. It has captured the important criteria that a successful data visualization should focus on. The ratings for each category also help to visualize and enable readers to understand quickly the strongest and weakest aspects of a visualization. Compared to the Good Charts method, I think the Effectiveness Profile method is more structured and provides more guidance. The arrangement chart in the Effectiveness Profile is directly linked with the rationales. It is also easier to understand. Meanwhile, it is somehow difficult to rate design execution and contextual awareness directly in the Good Charts Matrix as they are not broken down or thought through when I am making notes.
 
 In addition to the existing criteria in the Effectiveness Profile, I suggest there could be another category of “interactivity” as we are using digital tools to make visualizations more frequently. Interactivity focuses on whether the reader can interact with the visualization to see more details in a specific aspect, highlight important information, or temporarily hide unwanted information. Interactivity often makes the visualization more fun and memorable as well.
+
+
+## Step 3: Sketch out a solution
+I tried different visualizations using hand-drawn sketches in order to quickly form the ideas in my mind and compare. Note that the scale of data in the sketches are not accurate as they are only meant to convey the idea of layout and format.
+![IMG_9773](https://user-images.githubusercontent.com/45221009/190872331-25766fd3-f4f2-45f3-8f2c-9d1db619b330.jpeg)
+![IMG_9774](https://user-images.githubusercontent.com/45221009/190872336-019bad89-34ee-4849-b711-97c931507149.jpeg)
+
