@@ -17,6 +17,7 @@ I went through the critique process of the selected visualization following the 
 - **Aesthetics (7):** The visualization is clean and comfortable to look at. I think the overall layout is clear and easy for readers to navigate. The use of blue is also appropriate as it does not distract the readers and makes the texts easy to read.
 - **Engagement (5):** I think the visualization can do a better job in terms of engagement. There is nothing too distracting, but it does not provide any direct insights or inspiration for the readers.
 
+
 **Overall Observation**
 
 I think this data visualization presents a clear structure without unnecessary information. The title and explanation of order effectively guide readers to interpret the data. The use of bar chart makes it easy to understand and compare. However, the separation of global sales and shares from China into two columns might mislead the readers to make wrongful conclusions. A reader may think Ant-Man and the Wasp is one of the most popular Marvel movies in China as it has a leading share of 19%. But this conclusion is not correct as its actual sales number is in the low range. Therefore, I would probably visualize the global sales as well and incorporate shares from China to make a segmented bar chart for easier and more accurate comparison. I would also put the years into their own column to stress the time information in the chart.
