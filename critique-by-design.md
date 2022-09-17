@@ -17,6 +17,9 @@ I went through the critique process of the selected visualization following the 
 - **Aesthetics (7):** The visualization is clean and comfortable to look at. I think the overall layout is clear and easy for readers to navigate. The use of blue is also appropriate as it does not distract the readers and makes the texts easy to read.
 - **Engagement (5):** I think the visualization can do a better job in terms of engagement. There is nothing too distracting, but it does not provide any direct insights or inspiration for the readers.
 
+![Group 2](https://user-images.githubusercontent.com/45221009/190871132-c904181a-93b0-4c43-8dca-013356d33e84.png)
+
+
 
 **Overall Observation**
 
