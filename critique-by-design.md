@@ -2,7 +2,8 @@
 
 ## Step 1: Find a data visualization
 
-Visualization in the link: https://www.cnbc.com/2021/09/02/shang-chi-doesnt-have-a-release-date-in-china-why-thats-a-big-deal.html
+Visualization in the link:
+[‘Shang-Chi’ doesn’t have a release date in China — this chart shows why that’s a big deal](https://www.cnbc.com/2021/09/02/shang-chi-doesnt-have-a-release-date-in-china-why-thats-a-big-deal.html)
 
 As China is becoming an increasingly large market for movie releases, entertainment studios are investing heavily in the distribution in China. Using the example of Marvel, the article wants to illustrate that the Chinese market is important and contributes a noticeable proportion to the box office performance of a movie. However, I feel the data visualization "Share of Marvel films' box office sales in China" on the page could be improved for better understanding and easier comparison.
 
