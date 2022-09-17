@@ -21,3 +21,8 @@ I went through the critique process of the selected visualization following the 
 **Overall Observation**
 
 I think this data visualization presents a clear structure without unnecessary information. The title and explanation of order effectively guide readers to interpret the data. The use of bar chart makes it easy to understand and compare. However, the separation of global sales and shares from China into two columns might mislead the readers to make wrongful conclusions. A reader may think Ant-Man and the Wasp is one of the most popular Marvel movies in China as it has a leading share of 19%. But this conclusion is not correct as its actual sales number is in the low range. Therefore, I would probably visualize the global sales as well and incorporate shares from China to make a segmented bar chart for easier and more accurate comparison. I would also put the years into their own column to stress the time information in the chart.
+
+
+**Primary Audience**
+
+The primary audience of this visualization may be the film studios that are analyzing the performance of the Chinese box office and evaluating their investment in movie distributions in China. Since Marvel is a leading producer of blockbuster movies, this data serves as an indicator of how much the Chinese audience likes this type of movies and how much revenue the Chinese market is contributing to the worldwide box office records over the years. I think the visualization is somehow effective to reach the audience as it provides clear and straightforward information. But the audience might be misled due to the fact the percentage shares do not reflect the actual amount of box office sales in China.
