@@ -44,3 +44,10 @@ I tried different visualizations using hand-drawn sketches in order to quickly f
 ![IMG_9773](https://user-images.githubusercontent.com/45221009/190872331-25766fd3-f4f2-45f3-8f2c-9d1db619b330.jpeg)
 ![IMG_9774](https://user-images.githubusercontent.com/45221009/190872336-019bad89-34ee-4849-b711-97c931507149.jpeg)
 
+
+## Step 4: Test the solution
+
+
+
+## Step 5: Build your solution
+<div class="flourish-embed flourish-chart" data-src="visualisation/11217495"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
