@@ -119,18 +119,19 @@ I also noticed some aspects that do not work well and can be improved:
 
 
 Based on the interview feedback, I built the first version of my redesign in Flourish (note that I used separated bars instead of segmented bars because I could not figure out a way to combine sales number from China and global sales numbers into one segmented bar):
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/11217495"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 
-I presented this version of the redeign to my classmates, and I received a few insightful feedack as well:
+I presented this version of the redesign to my classmates, and I received a few insightful feedbacks as well:
 - Separated bars make the chart too long. Should still use stacked bars. Could divide the bars into sales from China and sales from the rest of the world.
 - The dark and light blue colors work particularly well.
 - The "million US dollars" unit is repetitive.
-- Add a label to the x axis.
-- Move the intervals of the x-axis to the top of the chart so that it is easier to read. Readers don't have to scroll down to the bottom to see what the x axis is.
+- Add a label to the x-axis.
+- Move the intervals of the x-axis to the top of the chart so that it is easier to read. Readers don't have to scroll down to the bottom to see what the x-axis is.
 - The title and summary sentences are still missing.
-- 
+- I found it difficult to add a separate column to show the years of each movie in Flourish. It is suggested to still add years in parenthesis next to the movie titles to preserve that information in the chart as it still makes the chart more intuitive for readers.
 
 
 
