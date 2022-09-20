@@ -104,5 +104,15 @@ I interviewed two friends of mine for their opinions on the sketch of the redesi
 > I would add a conclusive sentence under the title so that readers can quickly understand what I’m trying to express without diving into the bar chart. Color should also be used for better engagement. 
 
 
+From the interviews, I noticed some aspects of my sketch that work well:
+- The bar chart makes comparison easy.
+- The stacked bars show the sales information in a relatively more accurate fashion.
+- Readers are able to interpret the message that the chart is trying to present properly.
+- The title helps readers understand the chart effectively.
+
+
+
+
+
 ## Step 5: Build your solution
 <div class="flourish-embed flourish-chart" data-src="visualisation/11217495"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
