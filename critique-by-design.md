@@ -122,6 +122,7 @@ Based on the interview feedback, I built the first version of my redesign in Flo
 <div class="flourish-embed flourish-chart" data-src="visualisation/11217495"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
+
 I presented this version of the redeign to my classmates, and I received a few insightful feedack as well:
 - Separated bars make the chart too long. Should still use stacked bars. Could divide the bars into sales from China and sales from the rest of the world.
 - The dark and light blue colors work particularly well.
