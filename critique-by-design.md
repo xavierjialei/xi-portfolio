@@ -54,6 +54,8 @@ I interviewed two friends of mine for their opinions on the sketch of the redesi
 
 Student, mid 20’s
 > Can you tell me what you think this is?
+
+
 > It’s a bar chart showing the box office records of Marvel movies.
 > Who do you think is the intended audience for this?
 > Marketing managers in Marvel Studios who want to analyze their box office sales in China.
