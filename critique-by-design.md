@@ -145,4 +145,4 @@ I presented this version of the redesign to my classmates, and I received a few 
 ## Step 5: Build your solution
 <div class="flourish-embed flourish-chart" data-src="visualisation/11235730"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-With the redesigned visualization, I want to make it easier for reader to see the fact that the Chinese film market is growing and has been contributing more shares of box office sales comparing to the rest of the world over the years. The data of the most recent movies are placed at the top of 
+With the redesigned visualization, I want to make it easier for readers to see the fact that the Chinese film market is growing and has been contributing more shares of box office sales comparing to the rest of the world over the years. The chart starts with the data of the most recent movies as they are more relevant. Darker blue is used for the "sales from China" section of the bars for better contrast and to highlight the message that the chart is tr
