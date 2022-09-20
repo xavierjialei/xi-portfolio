@@ -132,8 +132,10 @@ I presented this version of the redesign to my classmates, and I received a few 
 - Move the intervals of the x-axis to the top of the chart so that it is easier to read. Readers don't have to scroll down to the bottom to see what the x-axis is.
 - The title and summary sentences are still missing.
 - I found it difficult to add a separate column to show the years of each movie in Flourish. It is suggested to still add years in parenthesis next to the movie titles to preserve that information in the chart as it still makes the chart more intuitive for readers.
+- The numbers on the bars are somehow distracting. Readers are not likely planning to know the actual numbers from the chart. Instead, a clearer chart can make comparsion easier.
 
 
 
 ## Step 5: Build your solution
 <div class="flourish-embed flourish-chart" data-src="visualisation/11235730"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
