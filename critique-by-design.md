@@ -106,7 +106,7 @@ I interviewed two friends of mine for their opinions on the sketch of the redesi
 
 From the interviews, I noticed some aspects of my sketch that work well:
 - The bar chart makes comparison easy.
-- The stacked bars show the sales information in a relatively more accurate fashion.
+- The segmented bars show the sales information in a relatively more accurate fashion.
 - Readers are able to interpret the message that the chart is trying to present properly.
 - The title helps readers understand the chart effectively.
 
@@ -116,6 +116,20 @@ I also noticed some aspects that do not work well and can be improved:
 - Add a legend to explain which parts of the bars represent which information.
 - Use colors for better engagement.
 - Add some conclusive or summary sentences for easier understanding.
+
+
+Based on the interview feedback, I built the first version of my redesign in Flourish (note that I used separated bars instead of segmented bars because I could not figure out a way to combine sales number from China and global sales numbers into one segmented bar):
+<div class="flourish-embed flourish-chart" data-src="visualisation/11217495"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+I presented this version of the redeign to my classmates, and I received a few insightful feedack as well:
+- Separated bars make the chart too long. Should still use stacked bars. Could divide the bars into sales from China and sales from the rest of the world.
+- The dark and light blue colors work particularly well.
+- The "million US dollars" unit is repetitive.
+- Add a label to the x axis.
+- Move the intervals of the x-axis to the top of the chart so that it is easier to read. Readers don't have to scroll down to the bottom to see what the x axis is.
+- The title and summary sentences are still missing.
+- 
 
 
 
