@@ -45,7 +45,12 @@ In addition to the existing criteria in the Effectiveness Profile, I suggest the
 
 ## Step 3: Sketch out a solution
 I tried different visualizations using hand-drawn sketches in order to quickly form the ideas in my mind and compare. Note that the scale of data in the sketches are not accurate as they are only meant to convey the idea of layout and format.
+
 ![IMG_9773](https://user-images.githubusercontent.com/45221009/190872331-25766fd3-f4f2-45f3-8f2c-9d1db619b330.jpeg)
+![IMG_9774](https://user-images.githubusercontent.com/45221009/191340477-0c156407-11cb-4ee7-a9f9-2e5494ba6150.jpeg)
+
+Although I was experimenting with the visualization with a pie chart, I still thought the bar chart was more suitable to present the data in this scenario. So I selected the segmented bar chart to move forward to the testing phase.
+
 
 
 ## Step 4: Test the solution
@@ -126,16 +131,18 @@ Based on the interview feedback, I built the first version of my redesign in Flo
 
 I presented this version of the redesign to my classmates, and I received a few insightful feedbacks as well:
 - Separated bars make the chart too long. Should still use stacked bars. Could divide the bars into sales from China and sales from the rest of the world.
-- The dark and light blue colors work particularly well.
+- The dark and light blue colors work particularly well in terms of highlight important information.
 - The "million US dollars" unit is repetitive.
 - Add a label to the x-axis.
 - Move the intervals of the x-axis to the top of the chart so that it is easier to read. Readers don't have to scroll down to the bottom to see what the x-axis is.
 - The title and summary sentences are still missing.
 - I found it difficult to add a separate column to show the years of each movie in Flourish. It is suggested to still add years in parenthesis next to the movie titles to preserve that information in the chart as it still makes the chart more intuitive for readers.
 - The numbers on the bars are somehow distracting. Readers are not likely planning to know the actual numbers from the chart. Instead, a clearer chart can make comparsion easier.
+- Source of the data is missing.
 
 
 
 ## Step 5: Build your solution
 <div class="flourish-embed flourish-chart" data-src="visualisation/11235730"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+With the redesigned visualization, I want to make it easier for reader to see the fact that the Chinese film market is growing and has been contributing more shares of box office sales comparing to the rest of the world over the years. The data of the most recent movies are placed at the top of 
