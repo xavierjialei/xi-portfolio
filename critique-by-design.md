@@ -55,7 +55,6 @@ I interviewed two friends of mine for their opinions on the sketch of the redesi
 ###### Student, mid 20’s
 > Can you tell me what you think this is?
 
-
 > It’s a bar chart showing the box office records of Marvel movies.
 
 > Who do you think is the intended audience for this?
@@ -79,8 +78,30 @@ I interviewed two friends of mine for their opinions on the sketch of the redesi
 > I suggest that the years can be sorted in descending order, starting from the most recent. Since the data from the recent year is more important, I would make it easier for the readers to find. 
 
 
+###### Accountant, mid 20’s
+> Can you tell me what you think this is?
 
+> A bar chart comparing the box office sales in China and the rest of the world.
 
+> Who do you think is the intended audience for this?
+
+> Film studios who intend to distribute their movies in China and want to decide if they should increase their investment in the Chinese market.
+
+> Can you see what is being emphasized here?
+
+> The shares from China of each movie.
+
+> What else do you notice that is important in the chart?
+
+> Marvel’s global box office is increasing over the years, and the shares from China are also increasing.
+
+> Is there anything you find surprising or confusing?
+
+> Do the shaded parts refer to the shares from China or global sales? There is no legend to explain this relationship.
+
+> Is there anything you think can be improved?
+
+> I would add a conclusive sentence under the title so that readers can quickly understand what I’m trying to express without diving into the bar chart. Color should also be used for better engagement. 
 
 
 ## Step 5: Build your solution
