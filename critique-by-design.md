@@ -5,7 +5,11 @@
 Visualization in the link:
 [‘Shang-Chi’ doesn’t have a release date in China — this chart shows why that’s a big deal](https://www.cnbc.com/2021/09/02/shang-chi-doesnt-have-a-release-date-in-china-why-thats-a-big-deal.html)
 
-As China is becoming an increasingly large market for movie releases, entertainment studios are investing heavily in the distribution in China. Using the example of Marvel, the article wants to illustrate that the Chinese market is important and contributes a noticeable proportion to the box office performance of a movie. However, I feel the data visualization "Share of Marvel films' box office sales in China" on the page could be improved for better understanding and easier comparison.
+
+![Screen Shot 2022-09-20 at 1 32 30 PM](https://user-images.githubusercontent.com/45221009/191325696-a83b28aa-3d3f-40e3-9d1e-aee20941fa5a.png)
+
+
+As China is becoming an increasingly large market for movie releases, entertainment studios are investing heavily in the distribution in China. Using the example of Marvel, the article wants to illustrate that the Chinese market is important and contributes a noticeable proportion to the box office performance of a movie. However, I feel the data visualization "Share of Marvel films' box office sales in China" on the page could be improved for better understanding and easier comparison. One of the biggest problems in the current visualization is that it could be misleading - comparing the percentage shares only without taking the base numbers into consideration can lead to inaccurate conclusions. For example, Captain Marvel is a bigger hit than Ant-Man and the Wasp in the Chinese market (14% of 1.1 billion is larger than 18% of 622.6 million), but the chart fails to present this information properly. 
 
 ## Step 2: Critique the data visualization
 I went through the critique process of the selected visualization following the Effectiveness Profile method.
