@@ -46,10 +46,28 @@ In addition to the existing criteria in the Effectiveness Profile, I suggest the
 ## Step 3: Sketch out a solution
 I tried different visualizations using hand-drawn sketches in order to quickly form the ideas in my mind and compare. Note that the scale of data in the sketches are not accurate as they are only meant to convey the idea of layout and format.
 ![IMG_9773](https://user-images.githubusercontent.com/45221009/190872331-25766fd3-f4f2-45f3-8f2c-9d1db619b330.jpeg)
-![IMG_9774](https://user-images.githubusercontent.com/45221009/190872336-019bad89-34ee-4849-b711-97c931507149.jpeg)
 
 
 ## Step 4: Test the solution
+
+I interviewed two friends of mine for their opinions on the sketch of the redesigned visualization.
+
+Student, mid 20’s
+> Can you tell me what you think this is?
+> It’s a bar chart showing the box office records of Marvel movies.
+> Who do you think is the intended audience for this?
+> Marketing managers in Marvel Studios who want to analyze their box office sales in China.
+> Can you see what is being emphasized here?
+> Maybe the shares from the Chinese market.
+> What else do you notice that is important in the chart?
+> Maybe the years. This can show the trend of growth over the past few years. But the sales performance also depends on the quality of the movies.
+> Is there anything you find surprising or confusing?
+> It would be better if I could see the unit and numbers in the chart. Currently I can only see a rough difference in the length of the bars, but I don’t know the exact sales numbers.
+> Is there anything you think can be improved?
+> I suggest that the years can be sorted in descending order, starting from the most recent. Since the data from the recent year is more important, I would make it easier for the readers to find. 
+
+
+
 
 
 
