@@ -111,6 +111,11 @@ From the interviews, I noticed some aspects of my sketch that work well:
 - The title helps readers understand the chart effectively.
 
 
+I also noticed some aspects that do not work well and can be improved:
+- Add unit information for the sales numbers.
+- Add a legend to explain which parts of the bars represent which information.
+- Use colors for better engagement.
+- Add some conclusive or summary sentences for easier understanding.
 
 
 
