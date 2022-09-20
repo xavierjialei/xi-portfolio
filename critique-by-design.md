@@ -52,20 +52,30 @@ I tried different visualizations using hand-drawn sketches in order to quickly f
 
 I interviewed two friends of mine for their opinions on the sketch of the redesigned visualization.
 
-Student, mid 20’s
+###### Student, mid 20’s
 > Can you tell me what you think this is?
 
 
 > It’s a bar chart showing the box office records of Marvel movies.
+
 > Who do you think is the intended audience for this?
+
 > Marketing managers in Marvel Studios who want to analyze their box office sales in China.
+
 > Can you see what is being emphasized here?
+
 > Maybe the shares from the Chinese market.
+
 > What else do you notice that is important in the chart?
+
 > Maybe the years. This can show the trend of growth over the past few years. But the sales performance also depends on the quality of the movies.
+
 > Is there anything you find surprising or confusing?
+
 > It would be better if I could see the unit and numbers in the chart. Currently I can only see a rough difference in the length of the bars, but I don’t know the exact sales numbers.
+
 > Is there anything you think can be improved?
+
 > I suggest that the years can be sorted in descending order, starting from the most recent. Since the data from the recent year is more important, I would make it easier for the readers to find. 
 
 
