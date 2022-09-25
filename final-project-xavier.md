@@ -20,8 +20,8 @@ My final project will focus on the domestic violence issue in the disabilities c
 
 - [People with Disabilities and Domestic Violence](https://assets.speakcdn.com/assets/2497/people_with_disabilities.pdf)
 - [Sexual Violence and Intimate Partner Violence Among People with Disabilities](https://www.cdc.gov/violenceprevention/sexualviolence/svandipv.html#:~:text=Disability%20affects%20more%20than%201,to%20people%20without%20a%20disability.)
-- 
 
+I planned to use data that shows the 
 
 
 ## 4. Method and Medium
