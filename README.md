@@ -21,6 +21,8 @@ Future assignments and final project
 
 
 ## Assignment 3
+[This is the assignment of Part I of the Final Project.](/
+
 ## Assignment 4
 ## Assignment 5
 ## Final Project
