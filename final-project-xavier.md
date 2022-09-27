@@ -36,13 +36,13 @@ After the critique in class, I have received the following feedback and will imp
 
 - [Disability Statistics - United States - 2018](https://www.kaggle.com/datasets/michaelacorley/disability-statistics-united-states-2018)
 
-I intend to use this data to present the fact that disability is a common issue in the world and we should pay more attention to the health of this group. 
+I intend to use this data to present the fact that disability is a common issue in the world and we should pay more attention to the health of this group in the set-up section of the story.
 
 - [People with Disabilities and Domestic Violence](https://assets.speakcdn.com/assets/2497/people_with_disabilities.pdf)
 - [Sexual Violence and Intimate Partner Violence Among People with Disabilities](https://www.cdc.gov/violenceprevention/sexualviolence/svandipv.html#:~:text=Disability%20affects%20more%20than%201,to%20people%20without%20a%20disability.)
 - [Crime Against Persons with Disabilities, 2009–2019](https://bjs.ojp.gov/content/pub/pdf/capd0919st.pdf)
 
-There are reports I found related to the issue of domestic violence and people with disabilities. They contain certain useful data and I will need to visualize them. 
+There are reports I found related to the issue of domestic violence and people with disabilities. They contain certain useful data which I will need to extract, synthesize, and combine.
 
 
 
