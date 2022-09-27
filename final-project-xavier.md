@@ -25,6 +25,11 @@ My final project will focus on the domestic violence issue in the disabilities c
 ![IMG_392EE272DE30-1](https://user-images.githubusercontent.com/45221009/192423392-146423ad-ec10-4adc-accc-a84b21deb48b.jpeg)
 ![IMG_84D245F4709B-1](https://user-images.githubusercontent.com/45221009/192423401-fcc2a7fb-25b0-4f21-bfe4-ea5a91ee439a.jpeg)
 
+After the critique in class, I have received the following feedback and will implement changes in the next assignment:
+- **Pick a more narrowed focus**. Does the story focus on the issue in the United States or the whole world? Does it look at people with disbilities living in cities or rural areas? I will select a clear focus based on the data I can find.
+- **More practical call-to-actions**. I should provide more specific and helpful call-to-actions. In my sketch, the 
+
+
 
 ## 3. The Data
 
