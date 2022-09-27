@@ -5,14 +5,19 @@
 My final project will focus on the domestic violence issue in the disabilities community. People with disabilities are at a higher risk of abuse and violence in a relationship compared to people without disabilities. In addition, it is often more difficult for them to seek help or escape from a toxic environment. I want to take a deep dive into the current situation, trend, and reason behind this issue, and raise people's awareness to take action to protect people with disabilities and prevent domestic violence in general.
 
 ### Structure
-- Setup: The number of people with disabilities who suffer from domestic violence in the US is rising over the years. Factors inclduing the background of pandemic, gender, race, and social status should also be taken into consideration.
-  - Porportion of people with disabilities in the entire society
+- Setup: The number of people with disabilities who suffer from domestic violence in the US is rising over the years. Factors including the background of pandemic, gender, race, and social status should also be taken into consideration.
+  - The porportion of people with disabilities in the entire society
   - Number of people suffering from domestic violence and its trend over the years
 - Conflict: Domestic violence causes significant trauma for the victims. The trauma and consequences are especially serious for people with disabilities. They also face specific difficulties when seeking help.
-  - Serious issuses that people with disabilities are facing
+  - Serious issues that people with disabilities are facing
   - Number and percentage of people with disabilities who report that they experience difficulties in seeking help
-  - Consequences of experiencing domestic violence
+  - Consequences of domestic violence in the disability community
+  - Gap between what people with disabilities are looking for and what resources are currently provided
 - Resolution: Actions to be taken by people with disabilities themselves and people around them that could help protect, prevent, and reduce the negative impact of domestic violence are recommended.
+  - Effective resources that can help people with disabilities
+  - What people with disabilities can do to help themselves in their daily lives
+  - What friends and families of people with disabilities can do to make sure they are not suffering from domestic violence
+  - What the society in general can do to set up a system to prevent and reduce the occurence of domestic violence
 
 ## 2. Initial Sketches
 
