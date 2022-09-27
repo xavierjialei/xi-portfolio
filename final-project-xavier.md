@@ -26,8 +26,9 @@ My final project will focus on the domestic violence issue in the disabilities c
 ![IMG_84D245F4709B-1](https://user-images.githubusercontent.com/45221009/192423401-fcc2a7fb-25b0-4f21-bfe4-ea5a91ee439a.jpeg)
 
 After the critique in class, I have received the following feedback and will implement changes in the next assignment:
-- **Pick a more narrowed focus**. Does the story focus on the issue in the United States or the whole world? Does it look at people with disbilities living in cities or rural areas? I will select a clear focus based on the data I can find.
-- **More practical call-to-actions**. I should provide more specific and helpful call-to-actions. In my sketch, the 
+- **Pick a more narrowed focus.** Does the story focus on the issue in the United States or the whole world? Does it look at people with disabilities living in cities or rural areas? I will select a clear focus based on the data I can find.
+- **More practical call-to-actions.** I should provide more specific and helpful call-to-actions. In my draft, the actions seem to focus mainly on what people with disabilities can do to protect themselves. How should other people who are not familiar with disability or domestic violence join to create a better society?
+- **Highlight the gap.** The gap between what the people with disabilities want and what current resources are available should be highlighted to further emphasize the urgency and importance of the issue. It also leads to the resolution part smoothly.
 
 
 
@@ -35,7 +36,7 @@ After the critique in class, I have received the following feedback and will imp
 
 - [Disability Statistics - United States - 2018](https://www.kaggle.com/datasets/michaelacorley/disability-statistics-united-states-2018)
 
-I intend to use this data to present the fact that disability is a common issue in the world and we should pay more attention to the health of this group.
+I intend to use this data to present the fact that disability is a common issue in the world and we should pay more attention to the health of this group. 
 
 - [People with Disabilities and Domestic Violence](https://assets.speakcdn.com/assets/2497/people_with_disabilities.pdf)
 - [Sexual Violence and Intimate Partner Violence Among People with Disabilities](https://www.cdc.gov/violenceprevention/sexualviolence/svandipv.html#:~:text=Disability%20affects%20more%20than%201,to%20people%20without%20a%20disability.)
