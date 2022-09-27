@@ -11,9 +11,9 @@ My final project will focus on the domestic violence issue in the disabilities c
 
 ## 2. Initial Sketches
 
-
-
-
+![IMG_68FB575D8A06-1](https://user-images.githubusercontent.com/45221009/192423359-749bfe80-5212-4d4e-a9f0-14deaf7dae07.jpeg)
+![IMG_392EE272DE30-1](https://user-images.githubusercontent.com/45221009/192423392-146423ad-ec10-4adc-accc-a84b21deb48b.jpeg)
+![IMG_84D245F4709B-1](https://user-images.githubusercontent.com/45221009/192423401-fcc2a7fb-25b0-4f21-bfe4-ea5a91ee439a.jpeg)
 
 
 ## 3. The Data
