@@ -1,4 +1,4 @@
-# Final Project - 
+# Final Project
 
 ## 1. Outline
 ### Summary
