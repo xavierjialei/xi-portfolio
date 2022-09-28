@@ -44,6 +44,8 @@ I intend to use this data to present the fact that disability is a common issue 
 
 There are reports I found related to the issue of domestic violence and people with disabilities. They contain certain useful data which I will need to extract, synthesize, and combine.
 
+I do find it challenging to search for comprehensive datasets on this topic. There are some sources with relevant data, but they are quite scattered. So I need to organize these data first in order to put them into a coherent and informative story. I will continue seearching for more comprehensive datasets that can analyze the problem of domestic violence among people with disabilities in the United States.
+
 
 
 ## 4. Method and Medium
