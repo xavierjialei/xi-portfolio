@@ -50,4 +50,4 @@ I do find it challenging to search for comprehensive datasets on this topic. The
 
 ## 4. Method and Medium
 
-For the final project, I plan to complete it on Shorthand. It is my first time to use Shorthand, but I believe I'm able to learn how to build a website using Shorthand quickly. 
+For the final project, I plan to complete it on Shorthand. It is my first time using Shorthand, but I believe I'm able to learn how to build a website using Shorthand quickly. I will utilize charts, icons, and photos to present an engaging but also alarming story. In order to let readers feel empathy, I will also probably create a fictional character with disabilities who suffers from domestic violence. In each incident or experience of that character, I will show data to indicate the severity of the issue. In this way, I believe readers can better understand their situation and take some actions in real life to protect the group and prevent the tragedies.
