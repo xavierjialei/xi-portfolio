@@ -42,7 +42,7 @@ I intend to use this data to present the fact that disability is a common issue 
 - [Sexual Violence and Intimate Partner Violence Among People with Disabilities](https://www.cdc.gov/violenceprevention/sexualviolence/svandipv.html#:~:text=Disability%20affects%20more%20than%201,to%20people%20without%20a%20disability.)
 - [Crime Against Persons with Disabilities, 2009–2019](https://bjs.ojp.gov/content/pub/pdf/capd0919st.pdf)
 
-There are reports I found related to the issue of domestic violence and people with disabilities. They contain certain useful data which I will need to extract, synthesize, and combine.
+There are reports I found related to the issue of domestic violence and people with disabilities. They contain certain useful data which I will need to extract, synthesize, and combine. In addition to the data, these documents also include overviews and recommendations that enables me to have a deeper understanding and provide reference to the resolution section.
 
 I do find it challenging to search for comprehensive datasets on this topic. There are some sources with relevant data, but they are quite scattered. So I need to organize these data first in order to put them into a coherent and informative story. I will continue seearching for more comprehensive datasets that can analyze the problem of domestic violence among people with disabilities in the United States.
 
