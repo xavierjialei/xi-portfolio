@@ -8,7 +8,9 @@ Note: I have switched the topic from part I of the project as there were not man
 ### Structure
 - Setup: A look at the language situation around the world. How many languages are there? What are the popular lanaguges? How many people are speaking each language?
   - The number of languages in the world
-  - Top 10 languages by population
+  - Top languages by population
+  - Top languages by countries
+  - Percentages of endangered languages among all languages
 - Conflict: Many languages 
 - Resolution:  
 
@@ -48,3 +50,9 @@ Some of the data visualizations I will include in my presentation:
 ### Storyboard
 I created a draft on Shorthand to use as the storyboard for user research.
 [Save our languages](https://carnegiemellon.shorthandstories.com/save-our-languages/index.html)
+
+
+## 3. User Research Protocol
+- Target audience: The general public who care about language protection and immigrants in the United States who don't speak English as their native language.
+- Approach to identifying representative individuals: Reaching out to international students at CMU 
+- Interview script
