@@ -12,7 +12,9 @@ Note: I have switched the topic from part I of the project as there were not man
 - Conflict: Many languages 
 - Resolution:  
 
-### Wireframes and Storyboards
+## 2. Wireframes and Storyboards
+
+### Data Visualizations
 Some of the data visualizations I will include in my presentation:
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11353408"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -42,3 +44,7 @@ Some of the data visualizations I will include in my presentation:
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+### Storyboard
+I created a draft on Shorthand to use as the storyboard for user research.
+[Save our languages](https://carnegiemellon.shorthandstories.com/save-our-languages/index.html)
