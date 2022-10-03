@@ -24,5 +24,7 @@ Future assignments and final project
 [This is the assignment of Part I of the Final Project.](/final-project-xavier.md)
 
 ## Assignment 4
+[This is the assignment of Part II of the Final Project.](/part-ii.md)
+
 ## Assignment 5
 ## Final Project
