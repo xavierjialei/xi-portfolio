@@ -16,6 +16,8 @@ Note: I have switched the topic from part I of the project as there were not man
 
 ## 2. Wireframes and Storyboards
 
+Storyboard on Shorthand
+
 [Save our languages](https://carnegiemellon.shorthandstories.com/save-our-languages/index.html)
 
 I made the storyboard of my project on Shorthand for user research. At this stage, I planned to focus on the overall flow of the topic I’m discussing. Several data visualization charts were included to gather feedback on whether they are conveying information properly. The descriptive texts are mostly titles or placeholders which will be replaced in the final version.
