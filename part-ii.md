@@ -11,8 +11,8 @@ Note: I have switched the topic from part I of the project as there were not man
   - Top languages by population
   - Top languages by countries
   - Percentages of endangered languages among all languages
-- Conflict: Many languages 
-- Resolution:  
+- Conflict: Many languages are facing a serious problem of extiction.
+- Resolution: Actions people can do to help protect endangered languages.
 
 ## 2. Wireframes and Storyboards
 
