@@ -24,6 +24,8 @@ I made the storyboard of my project on Shorthand for user research. At this stag
 
 
 ## 3. User Research Protocol
-- Target audience: The general public who care about language protection and immigrants in the United States who don't speak English as their native language.
-- Approach to identifying representative individuals: Reaching out to international students at CMU 
-- Interview script
+
+### Target Audience
+With this project, I intend to motivate the general public to pay more attention to language preservation. Everyone should be inspired to learn various languages bit by bit in their daily lives. More specifically, my target audience is people who are interested in learning new languages and immigrants in the United States who do not speak English as their native language.
+
+### Approach
