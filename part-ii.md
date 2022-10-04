@@ -32,3 +32,10 @@ With this project, I intend to motivate the general public to pay more attention
 ### Approach
 
 In order to find representative individuals to interview, I decided to narrow it down to my friends and classmates at CMU and start from these student groups. I focused specifically on international students who come from a non-English-speaking society. In addition, I also reached out to a few Duolingo users because they are likely to be interested in learning new languages. My goal in interviewing these target audiences is to see if the storyboard has a smooth flow and is effective in motiving people to learn more about endangered languages.
+- After reading the storyboard, could you tell me what it is about?
+- Does anything seem confusing to you?
+- Which part do you find most inspiring?
+- Can you understand the meaning of each data visualization quickly and easily?
+- Is there anything you think is missing?
+- Are you motived by the story to learn some endangered languages?
+- What else do you think could be adjusted or improved?
