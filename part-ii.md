@@ -39,3 +39,7 @@ In order to find representative individuals to interview, I decided to narrow it
 - Is there anything you think is missing?
 - Are you motived by the story to learn some endangered languages?
 - What else do you think could be adjusted or improved?
+
+### Interviews
+
+
