@@ -16,7 +16,7 @@ Note: I have switched the topic from part I of the project as there were not man
 
 ## 2. Wireframes and Storyboards
 
-Storyboard on Shorthand
+### Storyboard on Shorthand
 
 [Save our languages](https://carnegiemellon.shorthandstories.com/save-our-languages/index.html)
 
