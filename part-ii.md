@@ -26,6 +26,9 @@ I made the storyboard of my project on Shorthand for user research. At this stag
 ## 3. User Research Protocol
 
 ### Target Audience
-With this project, I intend to motivate the general public to pay more attention to language preservation. Everyone should be inspired to learn various languages bit by bit in their daily lives. More specifically, my target audience is people who are interested in learning new languages and immigrants in the United States who do not speak English as their native language.
+
+With this project, I intend to motivate the general public to pay more attention to language preservation. Everyone should be inspired to learn various languages bit by bit in their daily lives. More specifically, my target audience is people who are interested in learning new languages and immigrants in the United States who do not speak English as their native language. Another target audience of this project could also be language learning organizations such as Duolingo. They could use this information to decide what endangered languages they should provide to attract more users.
 
 ### Approach
+
+In order to find representative individuals to interview, I decided to narrow it down to my friends and classmates at CMU and start from these student groups. I focused specifically on international students who come from a non-English-speaking society. In addition, I also reached out to a few Duolingo users because they are likely to be interested in learning new languages. My goal in interviewing these target audiences is to see if the storyboard has a smooth flow and is effective in motiving people to learn more about endangered languages.
