@@ -43,10 +43,32 @@ In order to find representative individuals to interview, I decided to narrow it
 ### Interviews
 
 **International student from India, early 20s
-> After reading the storyboard, could you tell me what it is about?
+
+After reading the storyboard, could you tell me what it is about?
 
 > Protecting endangered languages I believe.
 
-> Does anything seem confusing to you?
+Does anything seem confusing to you?
 
-> Overall I think everything is quite clear. 
+> Overall I think everything is quite clear. The story flows smoothly and logically.
+
+Which part do you find most inspiring?
+
+> I think the contrast between the number of people who speak the top 12 languages and the rest is very effective.
+
+Can you understand the meaning of each data visualization quickly and easily?
+
+> Yes, the visualizations are clear. However, the map of endangered languages in each country is a bit hard to navigate. It probably has something to do with the limitation of Tableau.
+
+Is there anything you think is missing?
+
+> I understand this is just a draft, but adding more text in the storyboard would definitely help people understand what you will be discussing.
+
+Are you motived by the story to learn some endangered languages?
+
+> I think so. I understand the importance of my own language and 
+
+What else do you think could be adjusted or improved?
+
+> 
+
