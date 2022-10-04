@@ -44,6 +44,9 @@ In order to find representative individuals to interview, I decided to narrow it
 
 **International student from India, early 20s
 > After reading the storyboard, could you tell me what it is about?
+
 > Protecting endangered languages I believe.
+
 > Does anything seem confusing to you?
+
 > Overall I think everything is quite clear. 
