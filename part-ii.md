@@ -42,7 +42,7 @@ In order to find representative individuals to interview, I decided to narrow it
 
 ### Interviews
 
-**International student from India, early 20s
+**International student from India, early 20s**
 
 After reading the storyboard, could you tell me what it is about?
 
