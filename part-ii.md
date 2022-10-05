@@ -147,9 +147,11 @@ What else do you think could be adjusted or improved?
 
 
 ## 4. Findings and Changes
-Based on the interviews I conducted, it can be concluded that the overall flow of the story is good and the message is successfully and effectively conveyed to the readers. The data visualizations are clean and easy to understand. I plan to make the following adjustments in the final version:
+Based on the interviews I conducted, it can be concluded that the overall flow of the story is good and the message is successfully and effectively conveyed to the readers. The data visualizations are clean and easy to understand. The map of endangered languages is especially effective in attracting readers' attention. I plan to make the following adjustments in the final version:
 - Consistent use of colors throughout the entire story including all data visualizations
 - More detailed call-to-actions and their respective impact
 - Better layout with explanatory text on the left side and chart on the right side
 - Add more questions as headlines in each section
 - Try to use different types of visualizations other than bar charts and pie charts
+- Use pictures that are more meaningful and relevant to the topic
+- Explain the definitions of each endangerment stage
