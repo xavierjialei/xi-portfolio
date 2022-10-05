@@ -81,7 +81,7 @@ What else do you think could be adjusted or improved?
 
 
 
-
+<br/><br/>
 **International student from China, early 20s**
 
 After reading the storyboard, could you tell me what it is about?
@@ -113,7 +113,7 @@ What else do you think could be adjusted or improved?
 > The layout could be better. Instead of putting a chart in the entire section, maybe you could add some explanatory text on the left or right side of the chart.
 
 
-
+<br/><br/>
 **Duolingo user, software engineer**
 
 After reading the storyboard, could you tell me what it is about?
@@ -143,3 +143,8 @@ Are you motivated by the story to learn some endangered languages?
 What else do you think could be adjusted or improved?
 
 > As I mentioned before, maybe you could provide some information on the existing resources of language learning and how effective those resources are in terms of language protection.
+
+
+
+## 4. Findings and Changes
+Based on the interviews 
