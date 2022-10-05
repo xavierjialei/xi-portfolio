@@ -111,3 +111,35 @@ Are you motivated by the story to learn some endangered languages?
 What else do you think could be adjusted or improved?
 
 > The layout could be better. Instead of putting a chart in the entire section, maybe you could add some explanatory text on the left or right side of the chart.
+
+
+
+**Duolingo user, software engineer**
+
+After reading the storyboard, could you tell me what it is about?
+
+> Protecting endangered languages.
+
+Does anything seem confusing to you?
+
+> I'm wondering what might cause the languages to get into the state of endangerment.
+
+Which part do you find most inspiring?
+
+> Almost half of the languages are endangered, so it is urgent for us to protect them.
+
+Can you understand the meaning of each data visualization quickly and easily?
+
+> Yes, I think the charts are pretty good. The use of colors can be more consistent.
+
+Is there anything you think is missing?
+
+> Actions to save the languages is an important section. I also think you can provide some existing language learning resources like Duolingo.
+
+Are you motivated by the story to learn some endangered languages?
+
+> Yes, I enjoy learning new languages.
+
+What else do you think could be adjusted or improved?
+
+> As I mentioned before, maybe you could provide some information on the existing resources of language learning and how effective those resources are in terms of language protection.
