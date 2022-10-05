@@ -77,7 +77,7 @@ Are you motivated by the story to learn some endangered languages?
 
 What else do you think could be adjusted or improved?
 
-> Maybe you could talk more about the consequence of losing so many different languages at a rapid speed.
+> Maybe you could talk more about the consequence of losing so many different languages at a rapid speed. Also, try to use different kinds of charts so that the visual is more engaging.
 
 
 
@@ -142,9 +142,14 @@ Are you motivated by the story to learn some endangered languages?
 
 What else do you think could be adjusted or improved?
 
-> As I mentioned before, maybe you could provide some information on the existing resources of language learning and how effective those resources are in terms of language protection.
+> As I mentioned before, maybe you could provide some information on the existing resources of language learning and how effective those resources are in terms of language protection. I think it is also a good way to use some questions as headlines to serve as guides when moving forward.
 
 
 
 ## 4. Findings and Changes
-Based on the interviews 
+Based on the interviews I conducted, it can be concluded that the overall flow of the story is good and the message is successfully and effectively conveyed to the readers. The data visualizations are clean and easy to understand. I plan to make the following adjustments in the final version:
+- Consistent use of colors throughout the entire story including all data visualizations
+- More detailed call-to-actions and their respective impact
+- Better layout with explanatory text on the left side and chart on the right side
+- Add more questions as headlines in each section
+- Try to use different types of visualizations other than bar charts and pie charts
