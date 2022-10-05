@@ -6,13 +6,20 @@ Note: I have switched the topic from part I of the project as there were not man
 
 
 ### Structure
-- Setup: A look at the language situation around the world. How many languages are there? What are the popular lanaguges? How many people are speaking each language?
+- Setup: A look at the language situation around the world. How many languages are there? What are the popular languages? How many people are speaking each language?
   - The number of languages in the world
   - Top languages by population
   - Top languages by countries
+  - The impact and importance of languages in shaping our societies
+- Conflict: Many languages are facing a serious problem of extinction.
   - Percentages of endangered languages among all languages
-- Conflict: Many languages are facing a serious problem of extiction.
+  - Map of endangered languages in the world
+  - Number of endangered languages
+  - Speed of language extinction
 - Resolution: Actions people can do to help protect endangered languages.
+  - Trend of research work on language protection
+  - Number of language learning resources
+  - Actions to help preserve languages in our daily lives
 
 ## 2. Wireframes and Storyboards
 
@@ -37,7 +44,7 @@ In order to find representative individuals to interview, I decided to narrow it
 - Which part do you find most inspiring?
 - Can you understand the meaning of each data visualization quickly and easily?
 - Is there anything you think is missing?
-- Are you motived by the story to learn some endangered languages?
+- Are you motivated by the story to learn some endangered languages?
 - What else do you think could be adjusted or improved?
 
 ### Interviews
@@ -62,12 +69,45 @@ Can you understand the meaning of each data visualization quickly and easily?
 
 Is there anything you think is missing?
 
-> I understand this is just a draft, but adding more text in the storyboard would definitely help people understand what you will be discussing.
+> I understand this is just a draft, but adding more text to the storyboard would definitely help people understand what you will be discussing.
 
-Are you motived by the story to learn some endangered languages?
+Are you motivated by the story to learn some endangered languages?
 
 > I think so. I understand the importance of my own language and 
 
 What else do you think could be adjusted or improved?
 
-> 
+> Maybe you could talk more about the consequence of losing so many different languages at a rapid speed.
+
+
+
+
+**International student from China, early 20s**
+
+After reading the storyboard, could you tell me what it is about?
+
+> The situation of language extinction in the world and how to protect those endangered languages.
+
+Does anything seem confusing to you?
+
+> The chart which says over 50% of the world population is speaking those 12 top languages. I think the colors could be switched since you are focusing on the section of other languages.
+
+Which part do you find most inspiring?
+
+> The map of the endangered languages is pretty alarming.
+
+Can you understand the meaning of each data visualization quickly and easily?
+
+> Yes, I liked the visualizations presented here.
+
+Is there anything you think is missing?
+
+> I want to see more detailed and practical actions. 
+
+Are you motivated by the story to learn some endangered languages?
+
+> Yes, it has convinced me that language extinction is a serious issue.
+
+What else do you think could be adjusted or improved?
+
+> The layout could be better. Instead of putting a chart in the entire section, maybe you could add some explanatory text on the left or right side of the chart.
