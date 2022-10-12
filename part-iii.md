@@ -1,5 +1,12 @@
 # Final Project
 
+Project: Save Our Languages
+
+Part I
+
+Part II
+
+
 ## Part III: The Final Deliverable
 
 ### Deliverable
