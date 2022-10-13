@@ -1,11 +1,12 @@
 # Final Project
 
-Project: Save Our Languages
+Go to Project: Save Our Languages
 
-Part I
+Go to Part I
 
-Part II
+Go to Part II
 
+Go to Main Portfolio
 
 ## Part III: The Final Deliverable
 
@@ -15,3 +16,16 @@ I used Shorthand to build my story and included data visualizations using tools 
 
 - Story on Shorthand: https://carnegiemellon.shorthandstories.com/save-our-languages/index.html#section-Home-J540c5lFV2
 - Github Pgae: https://github.com/xavierjialei/xi-portfolio
+
+### Audience
+
+The target audience of my story is language enthusiasts who like to learn new languages. When they are selecting the next language to learn in the future, I want to 
+
+
+
+
+### Changes from Part II
+
+
+
+### Final Reflection
