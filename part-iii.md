@@ -1,4 +1,4 @@
-# Final Project
+# Final Project - Part III
 
 [Go to Project: Save Our Languages](https://carnegiemellon.shorthandstories.com/save-our-languages/index.html)
 
@@ -8,7 +8,6 @@
 
 [Go to Main Portfolio](/README.md)
 
-## Part III: The Final Deliverable
 
 ### Deliverable
 
