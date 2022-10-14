@@ -14,8 +14,8 @@
 
 I used Shorthand to build my story. Data visualizations are made using tools like Figma, Flourish, and Tableau and integrated into the story. The data comes from open data source libraries including Kaggle and reports/articles where I converted the data into csv files and uploaded them to the data visualization tools. Some data files are uploaded to the GitHub page directly, and all sources are listed in the "references" section of the story on the Shorthand website.
 
-- Story on Shorthand: (https://carnegiemellon.shorthandstories.com/save-our-languages/index.html)
-- GitHub Page: https://github.com/xavierjialei/xi-portfolio
+- [Story on Shorthand](https://carnegiemellon.shorthandstories.com/save-our-languages/index.html): https://carnegiemellon.shorthandstories.com/save-our-languages/index.html
+- [GitHub Page](https://github.com/xavierjialei/xi-portfolio): https://github.com/xavierjialei/xi-portfolio
 
 ### Audience
 
