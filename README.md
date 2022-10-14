@@ -1,5 +1,5 @@
 # xi-portfolio
-This is the portfolio for the class "Telling Stories with Data".
+This is the portfolio that includes all the assignments and the final project for the class "Telling Stories with Data" at CMU.
 
 
 # About Me
@@ -11,21 +11,22 @@ I'm hoping to learn more about the best practices in data visualization and stor
 
 
 # Portfolio
-Future assignments and final project
+Assignments and final project
 
 ## Assignment 1
-[This is the assignment of visualizing government debt.](/dataviz.md)
+[Visualizing Government Debt](/dataviz.md)
 
 ## Assignment 2
-[This is the assignment of critique by design.](/critique-by-design.md)
-
+[Critique by Design](/critique-by-design.md)
 
 ## Assignment 3
-[This is the assignment of Part I of the Final Project.](/final-project-xavier.md)
+[Part I of the Final Project](/part-i.md)
 
 ## Assignment 4
-[This is the assignment of Part II of the Final Project.](/part-ii.md)
+[Part II of the Final Project](/part-ii.md)
 
 ## Assignment 5
+[Part III of the Final Project](/part-iii.md)
+
 ## Final Project
-[This is the assignment of Part III of the Final Project.](/part-iii.md)
+[Save Our Languages](https://carnegiemellon.shorthandstories.com/save-our-languages/index.html)
