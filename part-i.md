@@ -4,11 +4,11 @@
 
 [Go to Part II](/part-ii.md)
 
-[Go to Part II](/part-ii.md)
+[Go to Part III](/part-iii.md)
 
 [Go to Main Portfolio](/README.md)
 
-**Note: The topic of the final project is different from the one that was initially selected in this part. However, the overall process and structure still helps in the construction of Part II, Part III and the final deliverable.**
+**Note: The topic of the final project is different from the one that was initially selected in this part. However, the overall process and structure still are still helpful during the construction of Part II, Part III and the final deliverable.**
 
 ## 1. Outline
 ### Summary
