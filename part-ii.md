@@ -1,4 +1,13 @@
 ## 1. Final Project - Part II
+
+[Go to Project: Save Our Languages](https://carnegiemellon.shorthandstories.com/save-our-languages/index.html)
+
+[Go to Part I](/part-i.md)
+
+[Go to Part III](/part-iii.md)
+
+[Go to Main Portfolio](/README.md)
+
 ### Summary
 This project focuses on the issue of language extinction and what people can do to save endangered languages. It is estimated that there are around 7,000 languages in the world, but over 50% of them are likely to be extinct by the year 2100. Dominant languages like English are accelerating this process as more people are shifting to speak popular languages more often. I want to take a deeper look into this urgent matter and raise people's awareness to protect languages starting from everyday practices.
 
