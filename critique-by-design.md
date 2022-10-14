@@ -1,4 +1,4 @@
-# Critique by Design
+# Critique by Design: Marvel's Box Office Sales in China
 
 ## Step 1: Find a data visualization
 
