@@ -17,7 +17,7 @@ Assignments and final project
 [Visualizing Government Debt](/dataviz.md)
 
 ## Assignment 2
-[Critique by Design](/critique-by-design.md)
+[Critique by Design: Marvel's Box Office Sales in China](/critique-by-design.md)
 
 ## Assignment 3
 [Part I of the Final Project](/part-i.md)
