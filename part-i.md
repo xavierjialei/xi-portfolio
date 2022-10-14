@@ -1,5 +1,15 @@
 # Final Project
 
+[Go to Project: Save Our Languages](https://carnegiemellon.shorthandstories.com/save-our-languages/index.html)
+
+[Go to Part II](/part-ii.md)
+
+[Go to Part II](/part-ii.md)
+
+[Go to Main Portfolio](/README.md)
+
+**Note: The topic of the final project is different from the one that was initially selected in this part. However, the overall process and structure still helps in the construction of Part II, Part III and the final deliverable.**
+
 ## 1. Outline
 ### Summary
 My final project will focus on the domestic violence issue in the disabilities community. People with disabilities are at a higher risk of abuse and violence in a relationship compared to people without disabilities. In addition, it is often more difficult for them to seek help or escape from a toxic environment. I want to take a deep dive into the current situation, trend, and reason behind this issue, and raise people's awareness to take action to protect people with disabilities and prevent domestic violence in general.
