@@ -4,9 +4,9 @@
 
 [Go to Part I](/part-i.md)
 
-Go to Part II
+[Go to Part II](/part-ii.md)
 
-Go to Main Portfolio
+[Go to Main Portfolio](/xi-portfolio.md)
 
 ## Part III: The Final Deliverable
 
