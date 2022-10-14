@@ -6,7 +6,7 @@
 
 [Go to Part II](/part-ii.md)
 
-[Go to Main Portfolio](/xi-portfolio.md)
+[Go to Main Portfolio](/README.md)
 
 ## Part III: The Final Deliverable
 
