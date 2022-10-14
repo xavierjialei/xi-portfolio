@@ -1,4 +1,4 @@
-## 1. Final Project - Part II
+# Final Project - Part II
 
 [Go to Project: Save Our Languages](https://carnegiemellon.shorthandstories.com/save-our-languages/index.html)
 
