@@ -28,3 +28,4 @@ Future assignments and final project
 
 ## Assignment 5
 ## Final Project
+[This is the assignment of Part III of the Final Project.](/part-iii.md)
