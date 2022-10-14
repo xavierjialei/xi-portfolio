@@ -2,7 +2,7 @@
 
 [Go to Project: Save Our Languages](https://carnegiemellon.shorthandstories.com/save-our-languages/index.html)
 
-[Go to Part I]
+[Go to Part I](/part-i.md)
 
 Go to Part II
 
